@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Rivaldo 👋  
 
-<!--
-**rivaldough/rivaldough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring SOC Analyst | Transitioning from Culinary to Cybersecurity  
+💻 Currently studying CompTIA Security+ (SY0-701)  
+🧪 Hands-on practice with TryHackMe labs and personal projects  
+📚 Background in Computer Systems Networking (Seneca College)  
 
-Here are some ideas to get you started:
+## What I’m Working On
+- Security+ certification prep (exam by Nov 30, 2025)  
+- Building a portfolio of notes, labs, and scripts here on GitHub  
+- Long-term interest: Blue Team operations & Cloud Security  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- [LinkedIn](https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/rivaldo-monroe-345b01116/)  
