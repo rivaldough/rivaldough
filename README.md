@@ -11,4 +11,4 @@
 - Long-term interest: Blue Team operations & Cloud Security  
 
 ## Connect With Me
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/rivaldo-monroe-345b01116/)  
+- [LinkedIn](https://www.linkedin.com/in/rivaldo-monroe-345b01116/)  
