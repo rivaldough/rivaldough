@@ -6,9 +6,12 @@ I’m transitioning from a career as a **chef** into the **cybersecurity space**
 
 ## 🔐 Cybersecurity Projects
 
-- **TryHackMe Labs**  
-  Completed hands-on modules in threat detection, incident response, and vulnerability management. Documenting write-ups and notes in this repository.
-
+- **[Cybersecurity Journey Repo](https://github.com/rivaldough/cybersecurity-journey)**  
+  Documenting my transition into cybersecurity with notes, labs, and projects. Key sections include:
+  - 📘 [Notes](https://github.com/rivaldough/cybersecurity-journey/tree/main/notes) → Security+ notes and core concepts explained in my own words  
+  - 📝 [Writeups](https://github.com/rivaldough/cybersecurity-journey/tree/main/writeups) → TryHackMe labs and walkthroughs  
+  - ⚙️ [Scripts](https://github.com/rivaldough/cybersecurity-journey/tree/main/scripts) → Small tools and automation scripts (Python, Bash, PowerShell)  
+  - 🗂 [Cybersecurity Portfolio](https://github.com/rivaldough/cybersecurity-journey/tree/main/cybersecurity-portfolio) → Achievements, roadmap, and highlights
 ---
 
 ## 🎓 Education
