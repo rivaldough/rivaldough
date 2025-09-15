@@ -23,7 +23,8 @@ I’m transitioning from a career as a **chef** into the **cybersecurity space**
 
 ## 📜 Certifications
 
-- **CompTIA Security+ (SY0-701)** — *Expected Oct 2025*  
+- **CompTIA Security+ (SY0-701)** — *Expected Oct 2025*
+- **TryHackMe SAL1 Certification** - *Expected Nov 2025*
 - Future Goals: CompTIA CySA+, Azure Security, AWS Cloud Practitioner
 
 ---
