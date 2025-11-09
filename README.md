@@ -1,7 +1,14 @@
 # 👋 Hi, I’m Rivaldo
 
-I’m transitioning from a career as a **chef** into the **cybersecurity space**, combining a background in computer networking with a hands-on approach to Blue Team operations. My goal is to defend organizations from threats by building skills in SOC operations, SIEM, and cloud security.
+I’m transitioning from a career as a chef into the cloud security space, combining a background in computer networking with a hands-on, analytical approach to defensive security. My goal is to help organizations secure and monitor their cloud environments by building practical skills in AWS, SIEM, and identity management.
 
+---
+
+## ☁️ Focus Areas
+
+- **Cloud Security** – AWS fundamentals, IAM, networking, and infrastructure hardening  
+- **Blue Team Operations** – threat detection, log analysis, and incident response  
+- **Security Automation** – scripting and cloud-based security tooling with Python and Bash  
 ---
 
 ## 🔐 Cybersecurity Projects
@@ -23,18 +30,17 @@ I’m transitioning from a career as a **chef** into the **cybersecurity space**
 
 ## 📜 Certifications
 
-- **CompTIA Security+ (SY0-701)** — *Expected Oct 2025*
-- **TryHackMe SAL1 Certification** - *Expected Nov 2025*
-- Future Goals: CompTIA CySA+, Azure Security, AWS Cloud Practitioner
-
+- **CompTIA Security+ (SY0-701)** — *Expected Nov 2025*
+- **AWS Certified Cloud Practitioner** — *in progress, expected 2025*  
+- **TryHackMe SAL1 Certification** — *expected Nov 2025*  
+- *Future Goals:* CompTIA CySA+ • AWS Security Specialty  
 ---
 
 ## 📂 What I’m Working On
 
-- Preparing for the **Security+ exam** (by Oct 30, 2025)  
-- Building a portfolio of **labs, notes, and scripts** here on GitHub  
-- Expanding into **Blue Team operations** and **Cloud Security**
-
+- Strengthening cloud security fundamentals through **AWS labs**  
+- Completing **Security+** and **AWS Cloud Practitioner**  
+- Building a practical, hands-on **cloud security portfolio** here on GitHub  
 ---
 
 ## 🤝 Let’s Connect
@@ -42,3 +48,7 @@ I’m transitioning from a career as a **chef** into the **cybersecurity space**
 I’m documenting my cybersecurity journey and always open to connecting with other professionals in the field.  
 [LinkedIn](https://www.linkedin.com/in/rivaldough)
 
+---
+
+### 🧠 Quote That Keeps Me Going
+> “Discipline is doing what needs to be done, even when you don’t feel like doing it.”
