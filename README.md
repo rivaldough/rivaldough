@@ -15,7 +15,7 @@ I’m transitioning from a career as a chef into the cloud security space, combi
 
 - **[Cybersecurity Journey Repo](https://github.com/rivaldough/cybersecurity-journey)**  
   Documenting my transition into cybersecurity with notes, labs, and projects. Key sections include:
-  - 📘 [Notes](https://github.com/rivaldough/cybersecurity-journey/tree/main/notes) → Security+ notes and core concepts explained in my own words  
+  - 📘 [Notes](https://github.com/rivaldough/cybersecurity-journey/tree/main/notes) → Central hub for all my certification notes, summaries, and reference material across cybersecurity and cloud domains  
   - 📝 [Writeups](https://github.com/rivaldough/cybersecurity-journey/tree/main/writeups) → TryHackMe labs and walkthroughs  
   - ⚙️ [Scripts](https://github.com/rivaldough/cybersecurity-journey/tree/main/scripts) → Small tools and automation scripts (Python, Bash, PowerShell)  
   - 🗂 [Cybersecurity Portfolio](https://github.com/rivaldough/cybersecurity-journey/tree/main/cybersecurity-portfolio) → Achievements, roadmap, and highlights
